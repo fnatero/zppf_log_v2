@@ -15,5 +15,5 @@
         <Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="local">
         </Schema>
     </edmx:DataServices>
-<!-- Teste de modificação 2-->
+<!-- Teste de modificação 3-->
 </edmx:Edmx>
